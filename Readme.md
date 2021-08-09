@@ -19,7 +19,7 @@ Run node index.js in the command line to start the application.
 
 ## Usage
 
-The application begins by running the MYSQL database schema. Then running npm seed from the command line to seed the database with test data.
+The application begins by running the MYSQL database schema. Then running npm seed from the command line to seed the database with test data. npm run start then starts the application.
 
 Then moving over to INSOMNIA core to test the .json operations. 
 
