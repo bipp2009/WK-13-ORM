@@ -2,7 +2,7 @@
 
 ## Description
 
-A back end e commerce application designed to configure and store a number of categories, products and tags. The application uses sequelize to connect to the My SQL database. 
+A back end e commerce application designed to configure and store a number of categories, products and tags. The application uses API sequelize to connect to the My SQL database. 
 
 * [Installation](#installation)
 * [Usage](#usage)
@@ -13,9 +13,7 @@ A back end e commerce application designed to configure and store a number of ca
 
 ## Installation
 
-Follow the link to the live github repo download the application code and run npm install.
-
-Run node index.js in the command line to start the application.
+Follow the link to the live github repo download the application code and run npm install. Then install the relevant node modules.
 
 ## Usage
 
@@ -69,5 +67,5 @@ The following have been submitted:
 * A video demonstrating the entirety of the app's functionality 
 
 
-![Demo Video] (./demo_video.gif) 
+![Demo Video] {./demo_video.gif}
 
