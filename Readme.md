@@ -67,5 +67,6 @@ The following have been submitted:
 * A video demonstrating the entirety of the app's functionality 
 
 
-![Demo Video] {./demo_video.gif}
+![Demo Video] (https://github.com/bipp2009/WK-13-ORM/blob/master/demo_video.gif)
+
 
